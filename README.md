@@ -7,7 +7,7 @@ AI 内容创作者，大三在读。
 
 关注 AI 应用、内容运营与用户增长，喜欢从真实用户需求出发，将想法变成有价值的产品和内容。
 
-🌐 **个人网站：[doraai7.vercel.app](https://doraai7.vercel.app)**
+🌐 **个人网站：[doraai7.netlify.app](https://doraai7.netlify.app)**
 
 
 ## 实践与成果
