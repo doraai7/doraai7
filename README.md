@@ -17,7 +17,7 @@ AI 内容创作者，大三在读。
 
 ## 精选项目
 
-### [听懂商品｜AI 购物核对助手](https://github.com/DoraAIDream/tingdong-shangpin)
+### [听懂商品｜AI 购物核对助手](https://github.com/doraai7/tingdong-shangpin)
 
 天猫 AI 黑客松参赛项目，面向视障用户的辅助购物工具，从真实需求出发，完成产品设计、开发与线上部署。
 
