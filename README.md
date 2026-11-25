@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**DoraAIDream/DoraAIDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 你好，我是哆啦AI梦 👋
 
-Here are some ideas to get you started:
+AI 内容创作者，大三在读。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+曾独立运营自媒体账号，累计阅读量 300 万+，获赞 6 万，合作品牌 10+。
+
+关注 AI 应用、内容运营与用户增长，喜欢从真实用户需求出发，将想法变成有价值的产品和内容。
+
+## 实践与成果
+
+- **账号运营：** 从 0 到 1 独立运营自媒体账号，累计发布内容 50+
+- **爆款打造：** 单条视频播放量 100 万+，点赞 3 万+
+- **商业合作：** 累计合作品牌 10+
+- **内容运营：** 实习期间参与 300 余篇内容制作，产品推广曝光增长 8 万+
+- **AI 产品 0–1：** 独立完成需求分析、产品设计、MVP 开发与部署
+
+## 精选项目
+
+### [听懂商品｜AI 购物核对助手](https://github.com/DoraAIDream/tingdong-shangpin)
+
+天猫 AI 黑客松参赛项目，面向视障用户的辅助购物工具，从真实需求出发，完成产品设计、开发与线上部署。
+
+### 哆啦AI梦｜AI 自媒体
+
+面向大学生分享 AI 工具、效率方法与求职实践，持续探索 AI 内容创作与用户增长。
+
+### 个人内容运营作品集
+
+涵盖账号运营、爆款案例、内容策划、品牌合作与商业推广实践。
+
+## 正在探索
+
+- AI 应用与 Agent
+- 内容运营与用户增长
+- AI 工作流与效率工具
+- 个人品牌与创业
